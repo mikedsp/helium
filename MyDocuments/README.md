@@ -4,3 +4,5 @@ PipeDreamBootstrap - TweetToGoogleSheet-SHARE.pdf - goes through a step-by-step 
 
 HowTo_BrowanTBHH100_to_GoogleSheet-SHARE.pdf - describes how to get data from a Browan TBHH100 temperature and humidity sensor to flow in real time to a Google Sheet.
 The end-to-end data flow is as follows: TBHH100 > Helium Hotspot > Helium Console > Pipedream > Google Sheet
+
+20200831_TBHV110 data.xlsx - Data collected from a TBHV110 temp/humidity/co2/VO sensor
