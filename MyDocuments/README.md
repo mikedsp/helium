@@ -4,6 +4,7 @@ The following documents are in this repository:
 
 20200831_TBHV110 data.xlsx - Data collected from a TBHV110 temp/humidity/co2/VO sensor, 100 measurements collected over 2 days
 20201008_TBHV110data.xlsx - Data collected from a TBHV110 temp/humidity/co2/VO sensor, 3200 measurements collected between Aug 29 - Oct. 8, 2020
+
 20201016_TempHumidity-SensorCompare.xlsx - Data collected from a radio bridge and a browan termp and humidity sensor from Oct 12 - Oct 16, 2020. Sensors are co-located so you can compare performance with the data. 
 
 BrowanTBHV110_HeliumQuickStart-SHARE.pdf - walks through getting a Browan TBHV110 (Health Home Indoor Air Quality) Sensor connected to the Helium network, connected to Cayenne, and capturing data to a Google Sheet via a Pipedream workflow
