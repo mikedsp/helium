@@ -8,7 +8,7 @@ The following documents are in this repository:
 BrowanTBHV110_HeliumQuickStart-SHARE.pdf - walks through getting a Browan TBHV110 (Health Home Indoor Air Quality) Sensor connected to the Helium network, connected to Cayenne, and capturing data to a Google Sheet via a Pipedream workflow
 
 HowTo_BrowanTBHH100_to_GoogleSheet-SHARE.pdf - describes how to get data from a Browan TBHH100 temperature and humidity sensor to flow in real time to a Google Sheet.
-The end-to-end data flow is as follows: TBHH100 > Helium Hotspot > Helium Console > Pipedream > Google Sheet
+The end-to-end data flow is as follows: TBHH100 > Helium Hotspot > Helium Network > Pipedream > Google Sheet
 
 HowTo_ReverseGeoCode_in_Pipedream-SHARE.pdf - how to build a Step in a Pipedream workflow to take a set of GPS latitude and longitude coordinates and return the nearest address using an API from the HERE.com location platform. At the end of this document is a Bonus section that shows 2 different Pipedream steps to calculate the distance between 2 sets of GPS coordinates. 
 
