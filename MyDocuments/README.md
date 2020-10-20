@@ -18,4 +18,6 @@ HowTo_ReverseGeoCode_in_Pipedream-SHARE.pdf - how to build a Step in a Pipedream
 
 PipeDreamBootstrap - TweetToGoogleSheet-SHARE.pdf - goes through a step-by-step analysis and copy of a 4 minute Pipedream YouTube video demonstrating how to Analyze Twitter Sentiment in Real-Time and to save the results to a Google Sheet. If you follow the steps in this document, you should have your own working solution for Twitter-to-Google Sheets.
 
+RBS305-ATH-US_HeliumQuickStart.pdf - Document walks through the steps to get a Radio Bridge Indoor Temperature and Humidity Sensor (RBS305-ATH-US) connected to the Helium network, connected to Cayenne myDevices, and capturing data in a Google Sheet via a Pipedream workflow. The document also covers how to change the mode of the sensor from the default mode (triggering on temperature or humidity crossing a threshold) to triggering on a change in temperature or humidity.
+
 RBS305-ATH-US_payloadAnalysis.pdf - This document walks through a manual decoding of some Radio Bridge RBS305-ATH-US temp/humidity sensor payloads received in the Helium Console Debugger. 
