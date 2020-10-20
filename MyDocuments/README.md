@@ -7,6 +7,8 @@ The following documents are in this repository:
 
 20201016_TempHumidity-SensorCompare.xlsx - Data collected from a radio bridge and a browan termp and humidity sensor from Oct 12 - Oct 16, 2020. Sensors are co-located so you can compare performance with the data. 
 
+20201020_RBS305data.xlsx - Data collected from a Radio Bridge RBS305-ATH-US temperature and humidity sensor between Oct. 12 - 20, 2020. THe sensor was in a living room most of the time, but placed in a freezer for a short period of time.
+
 BrowanTBHV110_HeliumQuickStart-SHARE.pdf - walks through getting a Browan TBHV110 (Health Home Indoor Air Quality) Sensor connected to the Helium network, connected to Cayenne, and capturing data to a Google Sheet via a Pipedream workflow
 
 HowTo_BrowanTBHH100_to_GoogleSheet-SHARE.pdf - describes how to get data from a Browan TBHH100 temperature and humidity sensor to flow in real time to a Google Sheet.
