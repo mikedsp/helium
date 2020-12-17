@@ -5,9 +5,11 @@ The following documents are in this repository:
 20200831_TBHV110 data.xlsx - Data collected from a TBHV110 temp/humidity/co2/VO sensor, 100 measurements collected over 2 days
 20201008_TBHV110data.xlsx - Data collected from a TBHV110 temp/humidity/co2/VO sensor, 3200 measurements collected between Aug 29 - Oct. 8, 2020
 
-20201016_TempHumidity-SensorCompare.xlsx - Data collected from a radio bridge and a browan termp and humidity sensor from Oct 12 - Oct 16, 2020. Sensors are co-located so you can compare performance with the data. 
+20201016_TempHumidity-SensorCompare.xlsx - Data collected from a radio bridge and a browan temp and humidity sensor from Oct 12 - Oct 16, 2020. Sensors are co-located so you can compare performance with the data. 
 
-20201020_RBS305data.xlsx - Data collected from a Radio Bridge RBS305-ATH-US temperature and humidity sensor between Oct. 12 - 20, 2020. THe sensor was in a living room most of the time, but placed in a freezer for a short period of time.
+20201020_RBS305data.xlsx - Data collected from a Radio Bridge RBS305-ATH-US temperature and humidity sensor between Oct. 12 - 20, 2020. The sensor was in a living room most of the time, but placed in a freezer for a short period of time.
+
+20201212_HeliumHotspotCoverageImprovementwithBetterAntenna.pdf - Presentation that shows the improvement in Helium hotspot coverage resulting from switching the hotspot antenna from an ANT-916-MHW-RPS-S 5.4 dBi antenna to a RAK 5.8 dBi Fiber Glass antenna. Performance improvement was measured using signal strength data collected from a Browan Object Locator & visual information from Helium Explorer and Helium Mapper. The presentation given on the December 16, 2020 as part of the weeekly Helium Hacks call.
 
 BrowanTBHV110_HeliumQuickStart-SHARE.pdf - walks through getting a Browan TBHV110 (Health Home Indoor Air Quality) Sensor connected to the Helium network, connected to Cayenne, and capturing data to a Google Sheet via a Pipedream workflow
 
