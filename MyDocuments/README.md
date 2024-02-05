@@ -2,6 +2,9 @@ The MyDocuments folder is a place to share my Helium learnings
 
 The following documents are in this repository:
 
+Lessons Learned from IoT Network Conversion v2.pdf - this article was published on LinkedIn on 2/2/2024. See it here: https://www.linkedin.com/pulse/lessons-learned-transitioning-smart-farm-iot-system-mike-bjmke
+Lessons Learned from IoT Network Conversion - with Details.pdf > this is a longer version of the same article, with a lot more details
+
 20200831_TBHV110 data.xlsx - Data collected from a TBHV110 temp/humidity/co2/VO sensor, 100 measurements collected over 2 days
 20201008_TBHV110data.xlsx - Data collected from a TBHV110 temp/humidity/co2/VO sensor, 3200 measurements collected between Aug 29 - Oct. 8, 2020
 
